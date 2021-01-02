@@ -1,0 +1,21 @@
+gcc bugs
+  97520 - https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97520 - FIXED     - P1
+  97551 - https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97551 - CONFIRMED - P1
+  97741 - https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97741 - FIXED     - P1
+  97979 - https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97979 – FIXED     - P1
+  97733 - https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97733 - FIXED     - P1
+  96235 - https://gcc.gnu.org/bugzilla/show_bug.cgi?id=96235 - DUPLICATE - P2
+  98117 - https://gcc.gnu.org/bugzilla/show_bug.cgi?id=98117 - CONFIRMED - P2
+  97650 - https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97650 - FIXED     - P3
+  
+
+llvm bugs
+  48082 - https://bugs.llvm.org/show_bug.cgi?id=48082 – FIXED(Developers do not reply us in our bug report but we find this bug has been indeed fixed on the currently latest revision of LLVM.)
+  48084 - https://bugs.llvm.org/show_bug.cgi?id=48084 – AWAITING
+  48276 - https://bugs.llvm.org/show_bug.cgi?id=48276 – AWAITING
+  48296 - https://bugs.llvm.org/show_bug.cgi?id=48296 – FIXED
+  48279 - https://bugs.llvm.org/show_bug.cgi?id=48279 – FIXED
+  48369 - https://bugs.llvm.org/show_bug.cgi?id=48369 – FIXED
+  48514 - https://bugs.llvm.org/show_bug.cgi?id=48514 - AWAITING
+  48531 - https://bugs.llvm.org/show_bug.cgi?id=48531 - AWAITING
+  48334 - https://bugs.llvm.org/show_bug.cgi?id=48334 - AWAITING
