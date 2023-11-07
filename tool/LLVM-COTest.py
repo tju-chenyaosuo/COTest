@@ -310,6 +310,7 @@ if __name__ == '__main__':
     cmd = 'diff new_opts.txt old_opts.txt'
     diffContent = ctools.execmd(cmd).split('\n')[:-1]
     NEW_OPTS = NEW_OPTS.split('\n')
+    OLD_OPTS = OLD_OPTS.split('\n')
     highId2LowId = [i for i in range(len(NEW_OPTS))]
     diffContent = getClearDiff(diffContent)
     mapping(highId2LowId, diffContent)
