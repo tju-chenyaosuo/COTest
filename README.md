@@ -21,3 +21,9 @@ There are three folders and one file in the root folder, including tool, mask, m
 * 4.bug.txt, which lists unknown bugs detected by COTest.
 
 Thanks!
+
+---
+
+Note: The Csmith used in COTest is a modified version from HiCOND[1], and the modified Csmith can be found in [https://github.com/JunjieChen/HiCOND/tree/master/tool/csmith_recorder](url).
+
+[1] Chen J, Wang G, Hao D, et al. History-guided configuration diversification for compiler test-program generation[C]//2019 34th IEEE/ACM International Conference on Automated Software Engineering (ASE). IEEE, 2019: 305-316.
